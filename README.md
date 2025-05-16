@@ -3,11 +3,15 @@
 Utilizar o terminal do GitHub -> Git bash
 
 Exercício 1:
+
 a) Crie um repositório no GitHub (no site mesmo)
+
 b) Crie um arquivo de texto e escreva “Olá, mundo!” (no arquivo.txt)
+
 c) Adicione o arquivo à Staging Area 
 ``git init``
 ``git add .``
+
 d) Faça o commit com uma mensagem apropriada
 ``git commit -m "first commit"``
 ``git branch -M main``
@@ -17,6 +21,7 @@ e) Faça o push do commit
 ``git push -u origin main``
 
 Exercício 2:
+
 a) Em uma outra pasta, clone o repositório do exercício anterior 
 ``git clone https://github.com/gabsdnker/Teste``
 
@@ -30,6 +35,7 @@ no terminal:
 ``git push -u origin main`` 
 
 c) Crie um outro arquivo de texto e coloque uma breve descrição sua (na pasta mesmo, na mão)
+
 d) Faça o push desse novo arquivo
 ``git push -u origin main``
 
