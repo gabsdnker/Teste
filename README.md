@@ -2,7 +2,7 @@
 
 Utilizar o terminal do GitHub -> Git bash
 
-## Exercício 1:
+## Exercício 1
 
 a) Crie um repositório no GitHub (no site mesmo)
 
@@ -25,7 +25,7 @@ d) Faça o commit com uma mensagem apropriada
 e) Faça o push do commit
 ``git push -u origin main``
 
-## Exercício 2:
+## Exercício 2
 
 a) Em uma outra pasta, clone o repositório do exercício anterior 
 
