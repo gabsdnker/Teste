@@ -15,6 +15,7 @@ c) Adicione o arquivo à Staging Area
 ``git add .``
 
 d) Faça o commit com uma mensagem apropriada
+
 ``git commit -m "first commit"``
 
 ``git branch -M main``
