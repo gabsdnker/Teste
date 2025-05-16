@@ -23,6 +23,7 @@ d) Faça o commit com uma mensagem apropriada
 ``git remote add origin https://github.com/gabsdnker/Teste``
 
 e) Faça o push do commit
+
 ``git push -u origin main``
 
 ## Exercício 2
